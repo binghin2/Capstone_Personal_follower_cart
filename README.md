@@ -1,5 +1,6 @@
 # Capstone_Personal_follower_cart
-
+HNU Capstone Design Project
+-
 
 Equipment
 -
@@ -9,3 +10,6 @@ Equipment
 4.  UWB module
 5.  Raspi CAM
 6.  Arduino Nano
+7.  Yolov4-tiny
+
+
